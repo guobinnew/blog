@@ -1,0 +1,21 @@
+{
+  "name": "沉睡狮子座",
+  "short_name": "沉睡狮子座",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#2196f3",
+  "description": "沉睡狮子座的个人主页",
+  "theme_color": "blue",
+  "icons": [
+    {
+      "src": "./logo.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    }
+  ],
+  "related_applications": [
+    {
+      "platform": "web"
+    }
+  ]
+}
