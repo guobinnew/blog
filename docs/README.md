@@ -12,5 +12,7 @@ features:
   details: 基于Canvas的可视化组件建模工具
 - title: Hydrus
   details: 基于Canvas的可视化行为树编辑工具
+- title: Lionet
+  details: 基于DEVS的组件化状态机引擎
 footer: MIT Licensed | Copyright © 2018-present Unique
 ---
