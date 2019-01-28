@@ -8,3 +8,6 @@
 
 Vue主要用于实现SPA框架，Scratch编辑器能够很容易脱离Vue环境，应用到其他Web应用中
 ![image](/img/yuchang/mainui.png)
+
+# 2.0计划
+实现与Canvas游戏引擎集成

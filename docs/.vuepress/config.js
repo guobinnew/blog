@@ -14,7 +14,9 @@ module.exports = {
             { text: 'Orion2', link: '/orion2/' },
             { text: 'Yuchang', link: '/yuchang/' },
             { text: 'Guardian', link: '/guardian/' },
-            { text: 'Buddha2', link: '/buddha2/' }
+            { text: 'Buddha2', link: '/buddha2/' },
+            { text: 'Blueprint', link: '/blueprint/' },
+            { text: 'Hydrus', link: '/hydrus/' }
           ] 
         },
         { text: '关于', link: '/about/' },
