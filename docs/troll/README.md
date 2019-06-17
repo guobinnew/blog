@@ -8,6 +8,6 @@ Troll提供可视化的Vue模版编辑功能，并能生成Vue模版代码， �
 + 标签元素属性也支持拖拽
 
 Troll既能作为js库使用，也提供VSCode插件
-![image](/img/yuchang/mainui.png)
+![image](/img/troll/mainui.png)
 
 ## Release Notes
