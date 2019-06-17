@@ -17,7 +17,8 @@ module.exports = {
             { text: 'Buddha2', link: '/buddha2/' },
             { text: 'Blueprint', link: '/blueprint/' },
             { text: 'Hydrus', link: '/hydrus/' },
-            { text: 'Lionet', link: '/lionet/' }
+            { text: 'Lionet', link: '/lionet/' },
+            { text: 'Troll', link: '/troll/' }
           ] 
         },
         { text: '关于', link: '/about/' },

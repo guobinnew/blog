@@ -14,5 +14,7 @@ features:
   details: 基于Canvas的可视化行为树编辑工具
 - title: Lionet
   details: 基于DEVS的组件化状态机引擎
+- title: Troll
+  details: 基于Canvas的可视化Vue模版编辑工具
 footer: MIT Licensed | Copyright © 2018-present Unique
 ---
